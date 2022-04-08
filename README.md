@@ -1,7 +1,7 @@
 # 一键部署 v2ray 到 heroku  
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-- - -
-- - -
+- - -all
+- - -all
 1.部署时配置 v2ray core 的版本、Vmess协议的UUID、AlterId、Path和连接缓存。
 
 2.如果输入AppName变量，则自动生成订阅地址和二维码，通过配置V2_QR_Path变量修改地址
